@@ -1,0 +1,7 @@
+{"framework": "Mem0", "phase": "pass1", "query": "gold.entity.1 is associated with gold.topic.1", "used_memory": false, "items_written": 1, "latency_ms": 1889, "namespace": "mem-eval-fixed"}
+{"framework": "Mem0", "phase": "pass1", "query": "gold.entity.2 is associated with gold.topic.2", "used_memory": false, "items_written": 1, "latency_ms": 3275, "namespace": "mem-eval-fixed"}
+{"framework": "Mem0", "phase": "pass1", "query": "gold.entity.3 is associated with gold.topic.3", "used_memory": false, "items_written": 1, "latency_ms": 3548, "namespace": "mem-eval-fixed"}
+{"framework": "Mem0", "phase": "pass1", "query": "gold.entity.4 is associated with gold.topic.4", "used_memory": false, "items_written": 1, "latency_ms": 3620, "namespace": "mem-eval-fixed"}
+{"framework": "Mem0", "phase": "pass1", "query": "gold.entity.5 is associated with gold.topic.5", "used_memory": false, "items_written": 1, "latency_ms": 5118, "namespace": "mem-eval-fixed"}
+{"framework": "Mem0", "phase": "pass1", "query": "gold.entity.6 is associated with gold.topic.6", "used_memory": false, "items_written": 1, "latency_ms": 5538, "namespace": "mem-eval-fixed"}
+{"framework": "Mem0", "phase": "pass1", "query": "gold.entity.7 is associated with gold.topic.7", "used_memory": false, "items_written": 1, "latency_ms": 5314, "namespace": "mem-eval-fixed"}

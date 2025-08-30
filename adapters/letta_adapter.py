@@ -40,7 +40,7 @@ class LettaAdapter(MemoryAdapter):
         sdk_client: Optional[object] = None,
         *,
         agent_id: Optional[str] = None,
-        timeout: int = 30,
+        timeout: int = 120,
         use_rest_fallback_for_update: bool = False,  # 基础评测不需要修改，可关闭
     ):
         self.timeout = timeout

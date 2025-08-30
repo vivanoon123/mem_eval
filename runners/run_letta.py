@@ -34,7 +34,7 @@ def run(task_mode="paged", pages=3, page_size=50, out="logs_letta.jsonl",
     # 限制 FAT 模式一次返回的最大 items（避免 5000）
     MAX_FAT_RETURN = 200
     # 实际写入配额
-    TOPK_FAT_WRITE = 5
+    TOPK_FAT_WRITE = 1
     TOPK_PAGED_WRITE_PER_PAGE = 2
 
     os.makedirs(os.path.dirname(out) or ".", exist_ok=True)

@@ -19,5 +19,11 @@ python runners/run_letta.py \
   --seed 42
 ```
 ```
-python analyse_logs.py logs_letta.jsonl
+python runners/run_mem0.py --mode fat --out outputs/logs_mem0_fat.jsonl 
+```
+```
+python analyse_logs_memgpt.py logs_letta.jsonl
+```
+```
+python runners/run_mem0.py --mode fat --out outputs/logs_mem0_fat.jsonl 
 ```
